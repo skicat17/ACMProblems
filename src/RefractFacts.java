@@ -3,6 +3,7 @@ import java.util.*;
 
 public class RefractFacts {
 
+// Work in progress
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
 		int d = s.nextInt();
